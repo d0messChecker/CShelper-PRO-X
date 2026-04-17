@@ -3,41 +3,50 @@
 <p align="center">
   <img src="https://shields.io" alt="Version">
   <img src="https://shields.io" alt="Platform">
-  <img src="https://shields.io" alt="Language">
+  <img src="https://shields.io" alt="License">
 </p>
 
 <p align="center">
   <img src="cshelperscreen.png" alt="CShelper PRO X Screenshot" width="850">
 </p>
 
-<p align="center">
-  <strong>Advanced Windows Optimization Tool for Maximum Gaming Performance and System Stability.</strong>
+---
+
+### 📖 Overview
+**CShelper-PRO-X** is a high-performance Windows utility built to eliminate system lag and strip away telemetry. 
+> *Lower latency. Higher FPS. Maximum Privacy.*
+
+---
+
+### ⚡ Key Optimization Modules
+
+
+| Module | Description |
+| :--- | :--- |
+| **💻 INFO TOOL** | Automatic hardware detection & system specs overview. |
+| **🧹 SYSTEM CLEAN** | Deep cleaning of Shader Cache, Temp files, and Win-Update logs. |
+| **🌐 NETWORK** | TCP/IP & Winsock resets for ultra-low gaming latency. |
+| **🛡️ DEBLOAT** | Complete removal of OneDrive, Xbox, and Microsoft Telemetry. |
+| **⚡ SERVICES** | 25+ essential service tweaks inspired by **AtlasOS**. |
+| **🔒 PRIVACY** | Hardened privacy settings to stop Windows data collection. |
+| **⚙️ SETUP TOOL** | Ultimate Power Plan & Input Lag (Mouse/Keyboard) fixes. |
+
+---
+
+### ⚠️ Safety Information
+> [!IMPORTANT]
+> Always create a **Restore Point** using the button inside the app before applying any tweaks. This ensures you can revert changes if needed.
+
+---
+
+### 📦 Installation & Usage
+<p align="left">
+  <a href="https://github.com">
+    <img src="https://shields.io" alt="Download">
+  </a>
 </p>
 
----
-
-### 🛠 What is CShelper-PRO-X?
-**CShelper-PRO-X** is a lightweight, all-in-one utility designed to strip away Windows bloat, optimize network latency, and fine-tune system services. Inspired by projects like AtlasOS, it brings professional-grade tweaks to a simple, easy-to-use GUI.
-
----
-
-### 🔥 Key Features
-*   **💻 INFO TOOL** - Automatic hardware detection (CPU, GPU, RAM).
-*   **🧹 SYSTEM CLEAN** - Deep cleaning of shader cache, temp files, and update logs.
-*   **🌐 NETWORK** - TCP/IP resets and DNS flushing for lower ping.
-*   **🛡️ DEBLOAT** - One-click removal of OneDrive, Xbox, and Telemetry.
-*   **⚡ SERVICES** - 25+ essential service tweaks (AtlasOS inspired).
-*   **🔒 PRIVACY** - Stop Windows from spying and tracking your activities.
-*   **⚙️ SETUP TOOL** - Ultimate Power Plan, VBS/HVCI disable, and Input Lag fixes.
-
----
-
-### ⚠️ Safety First
-> **Warning:** Optimization involves system changes. Always use the **"Restore Point"** button before applying tweaks.
-
----
-
-### 📦 How to Download
- Click on the **[Download CShelper PRO X](https://github.com/d0messChecker/CShelper-PRO-X/releases/tag/v1.0.0)** button.
- Download the latest `CShelperPRO.exe`.
-Run as **Administrator** and enjoy!
+1. **Download** the `CShelperPRO.exe` using the button above.
+2. **Run as Administrator** (Required for system tweaks).
+3. Select your desired optimizations and click **Apply**.
+4. **Restart your PC** to finalize all changes.
