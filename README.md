@@ -38,6 +38,6 @@
 ---
 
 ### 📦 How to Download
-1. Click on the **[Releases](https://github.com)** section on the right.
+1. 1. Click on the **[Download CShelper PRO X](https://github.com/d0messChecker/CShelper-PRO-X/releases/tag/v1.0.0)** button.
 2. Download the latest `CShelperPRO.exe`.
 3. Run as **Administrator** and enjoy!
